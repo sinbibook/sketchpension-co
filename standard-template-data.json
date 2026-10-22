@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-10-22T09:18:15.772435179Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-22T09:21:13.920759298Z",
     "templateType": "trip_h",
     "propertyId": "c9f5a165-e392-4a38-8194-c3f3ef9e62ff",
     "homepageId": "01a1624c-1d2d-7fbc-9b87-a1de46eff545"
@@ -2547,7 +2547,12 @@
         "font": {
           "koMain": null,
           "koSub": null,
-          "enMain": null
+          "enMain": {
+            "cdn": "https://fonts.cdnfonts.com/css/rughato-wacner",
+            "key": "rughatowacner",
+            "woff2": null,
+            "family": "UGHATO WACNER"
+          }
         },
         "color": {
           "primary": "#FFFFFF",
